@@ -64,11 +64,9 @@ Before running the application, install:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/hospital-management-system.git
+git clone https://github.com/Mayur8604681976/hospital-management-system.git
 cd hospital-management-system
 ```
-
-Replace `YOUR-USERNAME` with your GitHub username.
 
 Alternatively, download the repository ZIP file and extract it.
 
@@ -154,7 +152,7 @@ These are proposed enhancements, not claims about features already implemented.
 
 B.Tech in Computer Science and Engineering
 
-GitHub: https://github.com/YOUR-USERNAME
+GitHub: https://github.com/Mayur8604681976
 
 ## License
 
